@@ -1,0 +1,1 @@
+A simple python script to convert the MMLIB datset into minizinc compatible datafiles.
